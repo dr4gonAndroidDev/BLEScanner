@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118228880161",
+    "firebase_url": "https://ble-scanner-89c36.firebaseio.com",
+    "project_id": "ble-scanner-89c36",
+    "storage_bucket": "ble-scanner-89c36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118228880161:android:fff3c2c442dd265f7f8c60",
+        "android_client_info": {
+          "package_name": "com.example.blescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118228880161-l37k7smts7v9a7q9a9hq37et8qi8dja1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYiro3XJfxyukFqBQ7q_rO9nMNXAR8tt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118228880161-l37k7smts7v9a7q9a9hq37et8qi8dja1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
